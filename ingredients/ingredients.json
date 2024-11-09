@@ -1,0 +1,12 @@
+[
+  {
+    "key": "TM-test-food-001",
+    "name": "Melón",
+    "mode": "ADD"
+  },
+  {
+    "key": "TM-test-food-002",
+    "name": "Jamón",
+    "mode": "ADD"
+  }
+]
