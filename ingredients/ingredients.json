@@ -8,5 +8,43 @@
     "key": "TM-test-food-002",
     "name": "Jamón",
     "mode": "ADD"
+  },
+  {
+    "key": "TM-test-food-003",
+    "name": "Chocolate negro 99%",
+    "mode": "ADD"
+  },
+  {
+    "key": "TM-test-food-004",
+    "name": "Chocolate negro 99%",
+    "mode": "ADD",
+    "dependencyKey": "TM-test-food-003",
+    "marca": "Hacendado",
+    "nutrición": [
+      {
+        "medida": 100,
+        "uMedida": "g",
+        "descMedida": "Tableta",
+        "energía": 610,
+        "grasas": 54,
+        "hidratos": 8,
+        "azucar": 1,
+        "fibra": 16,
+        "proteinas": 15,
+        "sal": 0.19
+      },
+      {
+        "medida": 10,
+        "uMedida": "g",
+        "descMedida": "Onza",
+        "energía": 61,
+        "grasas": 5.4,
+        "hidratos": 0.8,
+        "azucar": 0.1,
+        "fibra": 1.6,
+        "proteinas": 1.5,
+        "sal": 0.019
+      }
+    ]
   }
 ]
