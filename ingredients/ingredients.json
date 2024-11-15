@@ -1,25 +1,53 @@
 [
   {
     "code": "TM-test-food-001",
-    "name": "Melón"
+    "name": "Melón",
+    "nutrition": [
+      {
+        "quantity": 100,
+        "unit": "g",
+        "description": "rodaja",
+        "nutritionalValues": {
+          "energy": 610,
+          "fats": 54,
+          "carbohydrates": 8,
+          "sugar": 1,
+          "fiber": 16,
+          "protein": 15,
+          "salt": 0.19
+        }
+      }
+    ]
   },
   {
     "code": "TM-test-food-002",
-    "name": "Jamón"
+    "name": "Jamón",
+    "nutrition": [
+      {
+        "quantity": 100,
+        "unit": "g",
+        "description": "loncha",
+        "nutritionalValues": {
+          "energy": 610,
+          "fats": 54,
+          "carbohydrates": 8,
+          "sugar": 1,
+          "fiber": 16,
+          "protein": 15,
+          "salt": 0.19
+        }
+      }
+    ]
   },
   {
     "code": "TM-test-food-003",
-    "name": "Chocolate negro 99%"
-  },
-  {
-    "code": "TM-test-food-004",
     "name": "Chocolate negro 99%",
     "brand": "Hacendado",
     "nutrition": [
       {
         "quantity": 100,
         "unit": "g",
-        "description": "Tableta",
+        "description": "tableta",
         "nutritionalValues": {
           "energy": 610,
           "fats": 54,
@@ -33,7 +61,7 @@
       {
         "quantity": 10,
         "unit": "g",
-        "description": "Onza",
+        "description": "onza",
         "nutritionalValues": {
           "energy": 61,
           "fats": 5.4,
