@@ -5,7 +5,7 @@
   },
   {
     "code": "TM-test-meal-002",
-    "name": "Test meal 002",
+    "title": "Test meal 002",
     "ingredients": [
       {
         "code": "TM-test-food-001",
