@@ -1,0 +1,20 @@
+[
+  {
+    "code": "TM-test-meal-001",
+    "title": "Test meal 001"
+  },
+  {
+    "code": "TM-test-meal-002",
+    "name": "Test meal 002",
+    "ingredients": [
+      {
+        "code": "TM-test-food-001",
+        "name": "Melón"
+      },
+      {
+        "code": "TM-test-food-002",
+        "name": "Jamón"
+      }
+    ]
+  }
+]

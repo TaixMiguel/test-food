@@ -4,5 +4,9 @@
 
   "ingredients": [
     "ingredients/ingredients.json"
+  ],
+
+  "meals": [
+    "meals/meals.json"
   ]
 }
