@@ -1,7 +1,9 @@
 [
   {
     "code": "TM-test-meal-001",
-    "title": "Test meal 001"
+    "title": "Test meal 001",
+    "ingredients": [],
+    "tags": []
   },
   {
     "code": "TM-test-meal-002",
@@ -15,6 +17,7 @@
         "code": "TM-test-food-002",
         "name": "Jamón"
       }
-    ]
+    ],
+    "tags": ["dinner"]
   }
 ]
