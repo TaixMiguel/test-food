@@ -3,6 +3,7 @@
     "code": "TM-test-meal-001",
     "title": "Test meal 001",
     "ingredients": [],
+    "urlImage": "",
     "tags": []
   },
   {
@@ -18,6 +19,7 @@
         "name": "Jamón"
       }
     ],
-    "tags": ["dinner"]
+    "tags": ["dinner"],
+    "urlImage": ""
   }
 ]
