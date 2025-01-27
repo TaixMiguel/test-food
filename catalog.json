@@ -1,12 +1,13 @@
 {
   "name": "Probando el catalogo",
   "version": "0.2.0-SNAPSHOT",
-
-  "ingredients": [
-    "ingredients/ingredients.json"
-  ],
-
-  "meals": [
-    "meals/meals.json"
+  "created": "2025-01-27T08:49:19.892Z",
+  "updated": "2025-01-27T09:04:05.818Z",
+  "pages": [
+    {
+      "id": "09b89b3c-3515-405c-b53f-4d272794454d",
+      "type": "ingredients",
+      "path": "ingredients/09b89b3c-3515-405c-b53f-4d272794454d.json"
+    }
   ]
 }

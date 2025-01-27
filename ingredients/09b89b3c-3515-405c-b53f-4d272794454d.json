@@ -1,0 +1,99 @@
+{
+  "id": "09b89b3c-3515-405c-b53f-4d272794454d",
+  "name": "Básicos",
+  "ingredients": [
+    {
+      "id": "574ba83b-a6cc-4ac9-b3d0-f34e2de08ef3",
+      "name": "Melón",
+      "brand": "",
+      "tags": [
+        {
+          "id": "2",
+          "name": "Fruta",
+          "color": "#8BC34A"
+        }
+      ],
+      "nutritionalInfo": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "description": "rodaja",
+          "values": {
+            "energy": 610,
+            "fats": 54,
+            "carbs": 8,
+            "sugar": 1,
+            "fiber": 16,
+            "protein": 15,
+            "salt": 0.19
+          }
+        }
+      ]
+    },
+    {
+      "id": "021e9c23-1b38-49e4-82f3-901b7b6aa3dc",
+      "name": "Jamón",
+      "brand": "",
+      "tags": [
+        {
+          "id": "3",
+          "name": "Carne",
+          "color": "#F44336"
+        }
+      ],
+      "nutritionalInfo": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "description": "loncha",
+          "values": {
+            "energy": 610,
+            "fats": 54,
+            "carbs": 8,
+            "sugar": 1,
+            "fiber": 16,
+            "protein": 15,
+            "salt": 0.16
+          }
+        }
+      ]
+    },
+    {
+      "id": "a1360e1b-f1d8-4dd7-b7cf-a1ef606cf35b",
+      "name": "Chocolate negro 99%",
+      "brand": "Hacendado",
+      "tags": [],
+      "nutritionalInfo": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "description": "tableta",
+          "values": {
+            "energy": 610,
+            "fats": 54,
+            "carbs": 8,
+            "sugar": 1,
+            "fiber": 16,
+            "protein": 15,
+            "salt": 0.19
+          }
+        },
+        {
+          "amount": 10,
+          "unit": "g",
+          "description": "onza",
+          "values": {
+            "energy": 61,
+            "fats": 5.4,
+            "carbs": 0.8,
+            "sugar": 0.1,
+            "fiber": 1.6,
+            "protein": 1.5,
+            "salt": 0.019
+          }
+        }
+      ]
+    }
+  ],
+  "description": "Ingredientes básicos"
+}
