@@ -1,14 +1,14 @@
 [
   {
     "code": "TM-test-meal-001",
-    "title": "Test meal 001",
+    "title": "Comida libre",
     "ingredients": [],
-    "urlImage": "",
-    "tags": []
+    "urlImage": "https://raw.githubusercontent.com/TaixMiguel/test-food/refs/heads/main/assets/meals/TM-test-meal-001.png",
+    "tags": ["breakfast","brunch","lunch","snack","dinner"]
   },
   {
     "code": "TM-test-meal-002",
-    "title": "Test meal 002",
+    "title": "Melón con jamón",
     "ingredients": [
       {
         "code": "TM-test-food-001",
@@ -20,6 +20,6 @@
       }
     ],
     "tags": ["dinner"],
-    "urlImage": ""
+    "urlImage": "https://raw.githubusercontent.com/TaixMiguel/test-food/refs/heads/main/assets/meals/TM-test-meal-002.png"
   }
 ]
