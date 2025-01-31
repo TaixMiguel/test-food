@@ -11,11 +11,11 @@
     "title": "Melón con jamón",
     "ingredients": [
       {
-        "code": "TM-test-food-001",
+        "id": "TM-test-food-001",
         "name": "Melón"
       },
       {
-        "code": "TM-test-food-002",
+        "id": "TM-test-food-002",
         "name": "Jamón"
       }
     ],
